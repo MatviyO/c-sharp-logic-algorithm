@@ -1,0 +1,2 @@
+1. Convert miles to kilometers and vice verca
+2. Convert сurrency
