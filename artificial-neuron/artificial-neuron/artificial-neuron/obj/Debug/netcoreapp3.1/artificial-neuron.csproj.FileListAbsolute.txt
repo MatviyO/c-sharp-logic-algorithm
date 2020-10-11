@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\bin\Debug\netcoreapp3.1\artificial-neuron.exe
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\bin\Debug\netcoreapp3.1\artificial-neuron.deps.json
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\bin\Debug\netcoreapp3.1\artificial-neuron.runtimeconfig.json
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\bin\Debug\netcoreapp3.1\artificial-neuron.runtimeconfig.dev.json
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\bin\Debug\netcoreapp3.1\artificial-neuron.dll
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\bin\Debug\netcoreapp3.1\artificial-neuron.pdb
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\obj\Debug\netcoreapp3.1\artificial-neuron.csprojAssemblyReference.cache
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\obj\Debug\netcoreapp3.1\artificial-neuron.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\obj\Debug\netcoreapp3.1\artificial-neuron.AssemblyInfo.cs
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\obj\Debug\netcoreapp3.1\artificial-neuron.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\obj\Debug\netcoreapp3.1\artificial-neuron.dll
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\obj\Debug\netcoreapp3.1\artificial-neuron.pdb
+C:\Users\user\source\repos\artificial-neuron\artificial-neuron\obj\Debug\netcoreapp3.1\artificial-neuron.genruntimeconfig.cache
