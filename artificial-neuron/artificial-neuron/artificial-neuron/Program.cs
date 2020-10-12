@@ -32,8 +32,19 @@ namespace artificial_neuron
             decimal miles = 62.1371m;
 
             Neuron neuron = new Neuron();
-          
-            Console.WriteLine(neuron.ProcessInputData(km));
+            int i = 0;
+            do
+            {
+                i++;
+                neuron.Train(km, miles);
+                Console.WriteLine($"Iteration: {i}\tError:\t{neuron.LastError}");
+            } while (neuron.LastError > neuron.Smothing || neuron.LastError <  -neuron.Smothing);
+
+            Console.WriteLine("Training finished");
+
+            Console.WriteLine($"{neuron.ProcessInputData(100)} miless in {100} km");
+            Console.WriteLine($"{neuron.ProcessInputData(100)} miless in {100} km");
+            Console.WriteLine($"{neuron.ProcessInputData(100)} miless in {100} km");
         }
     }
 }
