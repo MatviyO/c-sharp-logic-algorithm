@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\artificial-neuron\\artificial-neuron\\artificial-neuron.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Code\\GitProjects\\c-sharp-logic-algorithm\\artificial-neuron\\artificial-neuron\\artificial-neuron\\artificial-neuron.csproj",
       "projectName": "artificial-neuron",
-      "projectPath": "C:\\Users\\user\\source\\repos\\artificial-neuron\\artificial-neuron\\artificial-neuron.csproj",
+      "projectPath": "C:\\Users\\user\\Code\\GitProjects\\c-sharp-logic-algorithm\\artificial-neuron\\artificial-neuron\\artificial-neuron\\artificial-neuron.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\artificial-neuron\\artificial-neuron\\obj\\",
+      "outputPath": "C:\\Users\\user\\Code\\GitProjects\\c-sharp-logic-algorithm\\artificial-neuron\\artificial-neuron\\artificial-neuron\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
